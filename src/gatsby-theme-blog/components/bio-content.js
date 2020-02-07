@@ -7,9 +7,7 @@ import { Styled } from "theme-ui"
 
 export default () => (
   <Fragment>
-    This is blog of <Styled.a href="http://letterwell.co/">Alec & Jay</Styled.a>
-    {` `}
-    !
+    This is blog of <Styled.a href="http://letterwell.co/">Alec & Jay</Styled.a>!
     <br />
     We love making things.
   </Fragment>
